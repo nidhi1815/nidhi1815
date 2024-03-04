@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi1815&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi1815" /> </p>
 <img align="right" alt="Coding" width="300" src="https://ik.imagekit.io/storybird/images/247a71c2-bf43-46e3-8514-f77608893068/1_522671480.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nidhi1815&label=Profile%20views&color=0e75b6&style=flat" alt="nidhi1815" /> </p>
+
 
 - 📫 How to reach me **nidhiofficial700@gmail.com**
 
