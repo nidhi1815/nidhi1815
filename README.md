@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIDHI</h1>
 <p align="center">A second-year undergraduate pursuing BE in Electronics & Telecommunication at Army Institute of Technology, Pune. A passionate Web Developer and programmer having strong hold on Data Structures and OOPs concept.</p>
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorY6ibPCFJYxM3LasBatQQGbts60DCRGQVW7rPj2WHMzotM5DZiC-WjCOpaPZRbIaBHE&usqp=CAU" alt="nidhi1815" /> </p>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/5ry-200hErMAAAAM/hacker-hacker-man.gif">
+<!-- <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQorY6ibPCFJYxM3LasBatQQGbts60DCRGQVW7rPj2WHMzotM5DZiC-WjCOpaPZRbIaBHE&usqp=CAU" alt="nidhi1815" /> </p> -->
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/premium-vector/man-programmer-working-computer-with-code-screen-illustration-programmer-working-writing-code_87749-276.jpg?semt=ais_hybrid&w=740&q=80">
 
 
 
